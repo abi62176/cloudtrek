@@ -1,0 +1,100 @@
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+#logo {
+	position:relative;
+	margin-top:0px;
+	padding-top:0px;
+	top:-10px	
+
+}
+
+.uk-sticky-placeholder{
+height: 100px!important;
+
+}
+
+.footer{
+    
+	  display: inline;
+	padding: 10px;
+}
+
+#top-button ul li.login a
+{
+background-color:#ffab35!important;
+}
+#top-button ul li.login button{
+background-color:#ffab35!important;
+}
+
+.idz-ui-pricing-column2 .green-plan{
+background-color:#ffab35!important;
+}
+
+.idz-ui-pricing-column2 .green-plan .idz-ui-pricing-button{
+background-color:#ff9602!important;
+}
+
+.green-plan .idz-ui-pricing-button{
+background-color:#ffab35!important;
+}
+
+.idz-ui-button.green{
+background-color:#ffab35!important;
+}
+
+.green-plan .idz-ui-pricing-title .pricing-icon{
+background-color:#ffab35!important;
+}
+
+.idz-ui-button.green{
+background-color:#ffab35!important;
+}
+
+.slide-content3{
+color:white;
+}
+
+.uk-margin-large-bottom{
+margin-bottom:15px !important;
+}
+
+.ribbon-slide:after{
+border-bottom: 0px;
+min-height: 0px;
+}
+
+.uk-margin-top{
+padding-bottom: 1px;
+}
+
+section#main #content > .idz-ui-section {
+    margin-bottom: 8px;
+	margin-bottom: 30px;
+}
+
+.feature-wrap{
+text-align:left;
+}
+
+.uk-form .domain-search3 label{
+visibility:hidden;
+}
+
+.idz-ui-icon[class*=" smico-"].large{
+
+padding-right: 12px;
+    margin-top: -16px;
+}
+
+.uk-grid-divider{
+padding-top:5px;
+}
+
+section#main #content > .idz-ui-section:last-child{
+margin-bottom:-16px;
+}

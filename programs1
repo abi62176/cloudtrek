@@ -1,0 +1,181 @@
+[idz_ui_section id="home4-first-section" container="true" margin_bottom="true" parallax="" bgcolor="" bgimage="" class=""]
+
+[idz_ui_domain_box text1=" Domain name from" text2="$9.99/Year" image_ids="2340,2342,2343,2341"]
+
+[idz_ui_row class="uk-margin-large-top uk-margin-medium-bottom"]
+[idz_ui_col_1_1 class="uk-text-center uk-margin-medium-bottom"]
+
+[idz_ui_heading tag="h2" subtitle="Sed perspiciatis unde omnis natus error voluptatem accu santium doloremque" align="left" class="bold uk-margin-small-bottom title-section"]New domain available[/idz_ui_heading]
+
+[/idz_ui_col_1_1]
+[idz_ui_col_1_2 class=""]
+
+[idz_ui_domain_list]
+[idz_ui_domain_list_item domain=".email" button_text="Register" button_link="http://wp-demo.indonez.com/Satria/pages/whmcs-bridge/" button_color="blue"]
+[idz_ui_domain_list_item domain=".build" button_text="Register" button_link="http://wp-demo.indonez.com/Satria/pages/whmcs-bridge/" button_color="blue"]
+[idz_ui_domain_list_item domain=".agency" button_text="Register" button_link="http://wp-demo.indonez.com/Satria/pages/whmcs-bridge/" button_color="blue"]
+[idz_ui_domain_list_item domain=".events" button_text="Register" button_link="http://wp-demo.indonez.com/Satria/pages/whmcs-bridge/" button_color="blue"]
+[/idz_ui_domain_list]
+
+[/idz_ui_col_1_2]
+[idz_ui_col_1_2 class=""]
+
+[idz_ui_domain_list]
+[idz_ui_domain_list_item domain=".social" button_text="Register" button_link="http://wp-demo.indonez.com/Satria/pages/whmcs-bridge/" button_color="blue"]
+[idz_ui_domain_list_item domain=".cool" button_text="Register" button_link="http://wp-demo.indonez.com/Satria/pages/whmcs-bridge/" button_color="blue"]
+[idz_ui_domain_list_item domain=".link" button_text="Register" button_link="http://wp-demo.indonez.com/Satria/pages/whmcs-bridge/" button_color="blue"]
+[idz_ui_domain_list_item domain=".photo" button_text="Register" button_link="http://wp-demo.indonez.com/Satria/pages/whmcs-bridge/" button_color="blue"]
+[/idz_ui_domain_list]
+
+[/idz_ui_col_1_2]
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="home4-second-section" container="true" margin_bottom="true" parallax="" bgcolor="#f4f4f4" bgimage="" class="section-grey"]
+
+[idz_ui_row class=""]
+[idz_ui_col_1_2 class="uk-padding"]
+
+[idz_ui_heading tag="h2" subtitle="" align="left" class="bold uk-margin-top uk-margin-small-bottom title-section"]Superior uptime &amp; speed[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-text-large uk-margin-small-top uk-margin-medium-bottom"]Excepteur sint occaecat cupidatat proident sunt qui officia[/idz_ui_paragraph]
+
+[idz_ui_paragraph class="uk-margin-medium-bottom"]Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo voluptatem nostrum exercitationem ullam corporis suscipit laboriosam aliquid commodi.[/idz_ui_paragraph]
+
+[idz_ui_button color="blue" size="small" label="Learn more" icon="fa-chevron-circle-right" link="#" target="_self" type="radius" class="outline"]
+
+[/idz_ui_col_1_2]
+[idz_ui_col_1_2 class="uk-hidden-small"]
+
+[idz_ui_image source="http://themedemo.indonez.com/Satria/images/sample/sample_object2.png" align="left" class="" style="position:absolute; margin-top:-45px"]
+
+[/idz_ui_col_1_2]
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="home4-third-section" container="true" margin_bottom="true" parallax="" bgcolor="" bgimage="" class=""]
+
+[idz_ui_row class=""]
+[idz_ui_col_1_1 class="uk-text-center"]
+
+[idz_ui_heading tag="h2" subtitle="Each type of hosting service we provide is further optimized with unique performance tweaks!" align="center" class="bold title-section"]Different Hosting Platforms to Suit Every Need![/idz_ui_heading]
+
+[idz_ui_pricing column="3" type="type1"]
+[idz_ui_pricing_item color="default" title="Personal" price_symbol="$" price="29" per="Month" subtitle="Perfect Hosting for Simple website" icon="fa-cloud" button_url="#" button_color="blue" button_text="Order Now"]
+<ul>
+ 	<li>5 GB Storage</li>
+ 	<li>10 GB Bandwith / Monthly</li>
+ 	<li>15 Email Accounts</li>
+ 	<li>2 Domain Hosted Support</li>
+</ul>
+[/idz_ui_pricing_item]
+[idz_ui_pricing_item color="green" title="Business" price_symbol="$" price="59" per="Month" subtitle="Web hosting with rich Features" icon="fa-cloud" button_url="#" button_color="green" button_text="Order Now"]
+<ul>
+ 	<li>100 GB Storage</li>
+ 	<li>500 GB Bandwith / Monthly</li>
+ 	<li>35 Email Accounts</li>
+ 	<li>5 Domain Hosted Support</li>
+</ul>
+[/idz_ui_pricing_item]
+[idz_ui_pricing_item color="default" title="Enterprise" price_symbol="$" price="99" per="Month" subtitle="Our top hosting for anyone Expert" icon="fa-cloud" button_url="" button_color="green" button_text="Order Now"]
+<ul>
+ 	<li>500 GB Storage</li>
+ 	<li>1 TB Bandwith / Monthly</li>
+ 	<li>80 Email Accounts</li>
+ 	<li>12 Domain Hosted Support</li>
+</ul>
+[/idz_ui_pricing_item]
+[/idz_ui_pricing]
+
+[/idz_ui_col_1_1]
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="home4-fourth-section" container="false" margin_bottom="true" parallax="" bgcolor="" bgimage="" class="section-green"]
+
+[idz_ui_row class="uk-grid-collapse"]
+[idz_ui_col_1_2 class="uk-padding"]
+
+[_idz_ui_row class="feature-wrap2 uk-float-right"]
+[_idz_ui_col_1_1 class="uk-text-contrast uk-margin-medium-bottom"]
+
+[idz_ui_heading tag="h2" subtitle="" align="left" class="bold uk-margin-small-bottom uk-text-contrast uk-margin-medium-bottom title-section"]Your fave Hosting App
+is one click away.[/idz_ui_heading]
+
+[idz_ui_paragraph class=""]At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident similique.[/idz_ui_paragraph]
+
+[idz_ui_paragraph class=""]Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.[/idz_ui_paragraph]
+
+[/_idz_ui_col_1_1]
+[/_idz_ui_row]
+
+[/idz_ui_col_1_2]
+[idz_ui_col_1_2 class="uk-padding section-green2"]
+
+[_idz_ui_row class="feature-wrap2 uk-float-left"]
+[_idz_ui_col_1_1 class=""]
+
+[idz_ui_app_list type="type1" image_ids="2297,2290,2302,2300,2292,2306,2288,2289"]
+
+[/_idz_ui_col_1_1]
+[/_idz_ui_row]
+
+[/idz_ui_col_1_2]
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="home4-fiveth-section" container="true" margin_bottom="true" parallax="" bgcolor="" bgimage="" class=""]
+
+[idz_ui_row class=""]
+[idz_ui_col_1_1 class=""]
+
+[idz_ui_heading tag="h2" subtitle="" align="center" class="bold uk-margin-large-bottom title-section"]FAQ - You got questions? We got answers![/idz_ui_heading]
+
+[_idz_ui_row class=""]
+[_idz_ui_col_1_2 class=""]
+
+[idz_ui_heading tag="h4" subtitle="" align="left" class="bold uk-margin-small-bottom"]Where will my website be hosted?[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-margin-small-top uk-margin-medium-bottom"]Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae molestiae.[/idz_ui_paragraph]
+
+[idz_ui_heading tag="h4" subtitle="" align="left" class="bold uk-margin-small-bottom"]How long does it takes to setup my account?[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-margin-small-top uk-margin-medium-bottom"]Consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro quisquam dolorem.[/idz_ui_paragraph]
+
+[idz_ui_heading tag="h4" subtitle="" align="left" class="bold uk-margin-small-bottom"]Do I need to be a developer to use your service?[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-margin-small-top uk-margin-medium-bottom"]Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugia.[/idz_ui_paragraph]
+
+[/_idz_ui_col_1_2]
+[_idz_ui_col_1_2 class=""]
+
+[idz_ui_heading tag="h4" subtitle="" align="left" class="bold uk-margin-small-bottom"]What are the differences between the plans?[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-margin-small-top uk-margin-medium-bottom"]Voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta explicabo.[/idz_ui_paragraph]
+
+[idz_ui_heading tag="h4" subtitle="" align="left" class="bold uk-margin-small-bottom"]Is there a contract?[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-margin-small-top uk-margin-medium-bottom"]Ratione voluptatem sequi nesciunt porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur.[/idz_ui_paragraph]
+
+[idz_ui_heading tag="h4" subtitle="" align="left" class="bold uk-margin-small-bottom"]Do I need to be a developer to use your service?[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-margin-small-top uk-margin-medium-bottom"]Suscipit laboriosam nisi ut aliquid ex ea commodi consequatur quis autem vel eum iure reprehenderit qui in ea voluptate molestiae consequatur.[/idz_ui_paragraph]
+
+[/_idz_ui_col_1_2]
+[_idz_ui_col_1_1 class="uk-text-center uk-margin-medium-top"]
+
+[idz_ui_button color="blue" size="small" label="See all questions" icon="fa-chevron-circle-right" link="#" target="_self" type="radius" class=""]
+
+[/_idz_ui_col_1_1]
+
+[/_idz_ui_row]
+
+[/idz_ui_col_1_1]
+[/idz_ui_row]
+
+[/idz_ui_section]
+<div id="spoon-plugin-kncgbdglledmjmpnikebkagnchfdehbm-2" style="display: none;"></div>

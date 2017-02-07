@@ -1,0 +1,143 @@
+[idz_ui_section id="home3-first-section" container="true" margin_bottom="true" parallax="" bgcolor="#0090cf" bgimage="" class="section-blue top0"]
+
+[idz_ui_row class="uk-grid-divider uk-padding-small"]
+[idz_ui_col_1_2 class="uk-text-contrast idz-ui-padding-bottom-ml"]
+
+[idz_ui_icon_withtext icon="smico-server" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title='<span class="size18">Private</span>
+Cloud' title_tag="h2" content="• The solution to the request of our hosted clients
+• Quarterly cloud strategy discussions
+• Dedicated compute, storage, and security per client
+• Bring your own hardware/software
+• Cloud migration assessments
+• 24/7/365 live support" class=""]
+
+[idz_ui_button color="green" size="small" label="Buy Now" icon="" link="#" target="_self" type="radius" class="uk-align-right uk-margin-small-bottom"]
+
+[idz_ui_button color="white" size="small" label="Learn More" icon="" link="#" target="_self" type="radius" class="outline uk-align-right uk-margin-small-bottom"]
+
+[/idz_ui_col_1_2]
+[idz_ui_col_1_2 class="uk-text-contrast idz-ui-padding-top-ml"]
+
+[idz_ui_icon_withtext icon="smico-browser" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title='<span class="size18">Hosting</span>
+Bare-metal' title_tag="h2" content="• Physical datacenters (Irvine, LAX, Downtown LA)
+• N+1 fault tolerance
+• 24/7/365 live support
+• Audited AT101 SOC 2 Type 2
+• All carriers supported including microwave
+• Cross connect availability to public clouds" class=""]
+
+[idz_ui_button color="green" size="small" label="Customize Now" icon="" link="#" target="_self" type="radius" class="uk-align-right uk-margin-small-bottom"]
+
+[idz_ui_button color="white" size="small" label="Learn More" icon="" link="#" target="_self" type="radius" class="outline uk-align-right uk-margin-small-bottom"]
+
+[/idz_ui_col_1_2]
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="home3-second-section" container="true" margin_bottom="true" parallax="" bgcolor="" bgimage="" class=""]
+
+[idz_ui_row class=""]
+[idz_ui_col_1_1 class="uk-text-center"]
+
+[idz_ui_panel color="default" class="nostroke"]
+
+[_idz_ui_row class="uk-grid-divider"]
+[_idz_ui_col_1_3 class="uk-width-medium-1-2 uk-width-small-1-1 idz-ui-padding-bottom-ml"]
+
+[idz_ui_heading tag="h3" subtitle="" align="left" class="bold "]Join Our Mailing List[/idz_ui_heading]
+
+[idz_ui_search_domain domain=", , , , " integration="none" button_label="" button_link="#" button_color="blue" found_text="" not_found_text="" ext_text="" placeholder_text="Enter your email" submit_label="Submit" layout_type="type3"]
+
+[idz_ui_paragraph class=""]We will keep your information private.<a href="#">Terms of Use</a>[/idz_ui_paragraph]
+
+[/_idz_ui_col_1_3]
+[_idz_ui_col_1_3 class="uk-width-medium-1-2 uk-width-small-1-1 idz-ui-padding-top-ml idz-ui-padding-bottom-ml"]
+
+[idz_ui_heading tag="h3" subtitle="" align="left" class="bold "]Premier Partner Program[/idz_ui_heading]
+
+[idz_ui_paragraph class=""]Committed to Offering Competitive Pricing and Service Excellence.[/idz_ui_paragraph]
+
+[idz_ui_button color="grey" size="small" label="Join Today!" icon="fa-chevron-circle-right" link="#" target="_self" type="radius" class="uk-width-1-1"]
+
+[idz_ui_paragraph class="uk-margin-small-bottom"]<strong>Download Forms Below</strong>[/idz_ui_paragraph]
+
+[idz_ui_list type="nobullet" class="uk-margin-small-top"]
+<ul>
+ 	<li><a href="#">Referal Program</a></li>
+ 	<li><a href="#">Partner Program</a></li>
+</ul>
+[/idz_ui_list]
+
+[/_idz_ui_col_1_3]
+[_idz_ui_col_1_3 class="uk-width-small-1-1 idz-ui-padding-top-ml uk-hidden-medium"]
+
+[idz_ui_heading tag="h3" subtitle="" align="left" class="bold "]New Products![/idz_ui_heading]
+
+[idz_ui_paragraph class=""]Get unified system with our new DynaScale software and more with cloudtrek [/idz_ui_paragraph]
+
+[idz_ui_div class="product-box"]
+
+[idz_ui_image source="http://54.244.68.255/wp-content/uploads/2017/01/cloudtrek_apps-1.svg" align="center" class=""]
+
+[idz_ui_end_div]
+
+[idz_ui_button color="blue" size="small" label="Find out more" icon="fa-chevron-circle-right" link="#" target="_self" type="radius" class="transparent uk-padding-remove"]
+
+
+[/_idz_ui_col_1_3]
+[/_idz_ui_row]
+
+[/idz_ui_panel]
+
+[/idz_ui_col_1_1]
+
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="home3-fourth-section" container="true" margin_bottom="true" parallax="" bgcolor="#f4f4f4" bgimage="" class="section-grey"]
+
+[idz_ui_row class="uk-padding"]
+[idz_ui_col_1_1 class="uk-text-center"]
+
+[idz_ui_heading tag="h2" subtitle="" align="center" class="bold uk-margin-small-bottom title-section"]Our Data Centers[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-text-large uk-margin-small-top text-width80"]<strong>Downtown LA, LAX and Irvine. </strong><br> Operating around the clock, personnel control access to each of Alchemy's Internet Data Centers and monitor them 24x7 utilizing security cameras located throughout each facility. Our highly trained and skilled NOC staff welcomes the opportunity to assist our customers with their technical support needs.[/idz_ui_paragraph]
+
+[idz_ui_map_location map="http://54.244.68.255/wp-content/uploads/2015/12/us_map-1.svg" width="75%" height="510"]
+[idz_ui_location_item id="denver" title="Downtown LA, CA" top="230" left="197"]
+
+[idz_ui_location_item id="dallas" title="LAX, CA" bottom="240" left="197"]
+
+[idz_ui_location_item id="sanfranscisco" title="San Francisco, CA" top="172" left="164"]
+
+[idz_ui_location_item id="irvine" title="Irvine, CA" top="252" left="197"]
+[/idz_ui_map_location]
+
+[/idz_ui_col_1_1]
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="home3-fiveth-section" container="true" margin_bottom="true" parallax="" bgcolor="" bgimage="" class=""]
+
+[idz_ui_row class="uk-grid-divider uk-margin-bottom"]
+[idz_ui_col_1_3 class="quick-info uk-hidden-medium"]
+
+[idz_ui_icon_withtext icon="fa-envelope" color="#ffffff" bgcolor="#0090cf" stroke="#0090cf" size=large icon_position="left" icon_border="circle" title="" title_tag="" content='<a href="#">Email Us</a>' class=""]
+
+[/idz_ui_col_1_3]
+[idz_ui_col_1_3 class="quick-info uk-width-medium-1-2"]
+
+[idz_ui_icon_withtext icon="fa-phone" color="#ffffff" bgcolor="#0090cf" stroke="#0090cf" size=large icon_position="left" icon_border="circle" title="" title_tag="" content='(949) 445-1951' class=""]
+
+[/idz_ui_col_1_3]
+[idz_ui_col_1_3 class="quick-info uk-width-medium-1-2"]
+
+[idz_ui_icon_withtext icon="fa-comments" color="#ffffff" bgcolor="#0090cf" stroke="#0090cf" size=large icon_position="left" icon_border="circle" title="" title_tag="" content='<a href="#">Tech Support</a>' class=""]
+
+[/idz_ui_col_1_3]
+[/idz_ui_row]
+
+[/idz_ui_section]

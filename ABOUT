@@ -1,0 +1,67 @@
+[idz_ui_section id="about1" container="true" parallax="false" bgcolor="" bgimage="" class=""]
+
+[idz_ui_row class=""]
+[idz_ui_col_6_10 class=""]
+
+[idz_ui_heading tag="h2" subtitle="We at cloudtrek help companies quickly deploy private cloud solutions preserving their need for greater control, predictable costs, and ease of use." align="left" class="bold uk-margin-small-bottom title-section" class_subtitle="uk-margin-medium-bottom"]Our Mission[/idz_ui_heading]
+
+Cloudtrek started with the goal of providing best-of-class storage and virtual infrastructure to the growing hosting environment — and we are committed to offering competitive pricing and service excellence. We build and support ideal business infrastructure, while providing exceptional support across a range of services — enabling you to focus on developing your core business rather than on IT development and support.
+
+[idz_ui_heading tag="h3" subtitle="" align="left" class="bold uk-margin-large-top uk-margin-medium-bottom"]Why Choose cloudtrek?[/idz_ui_heading]
+
+[_idz_ui_row class=""]
+[idz_ui_col_1_1][idz_ui_icon_withtext icon="smico-graph" color="" bgcolor="" stroke="" size="small" icon_position="left" icon_border="" title="White Glove Private Cloud Services" title_tag="h5" content="• We provide 1st class private cloud services to help our customers launch their private cloud initiative in the quickest manner possible." class="titlenomargin"][/idz_ui_col_1_1]
+
+[idz_ui_col_1_1][idz_ui_icon_withtext icon="smico-box" color="" bgcolor="" stroke="" size="small" icon_position="left" icon_border="" title="Enable Agility" title_tag="h5" content="• Customizing, deploying, or migrating your IT infrastructure is simple, quick, and easy.
+• We can host legacy equipment and you can bring your own licenses." class="titlenomargin"][/idz_ui_col_1_1]
+
+[idz_ui_col_1_1][idz_ui_icon_withtext icon="smico-wallet" color="" bgcolor="" stroke="" size="small" icon_position="left" icon_border="" title="High Performance &amp; Secure" title_tag="h5" content="• The latest networking equipment coupled with per client dedicated security, compute, and storage provide for the fastest and most secure cloud capabilities available today." class="titlenomargin"][/idz_ui_col_1_1]
+
+[idz_ui_col_1_1][idz_ui_icon_withtext icon="smico-chemistry" color="" bgcolor="" stroke="" size="small" icon_position="left" icon_border="" title="Reduce Complexity &amp; Cost" title_tag="h5" content="• We reduce complexity through a highly integrated set of self-service open source platforms.
+• Competitive cost model at a fixed price – no billing surprises." class="titlenomargin"][/idz_ui_col_1_1]
+[/_idz_ui_row]
+
+[/idz_ui_col_6_10]
+[idz_ui_col_4_10 class=""]
+
+<img class="alignnone wp-image-857 size-full" src="http://54.244.68.255/wp-content/uploads/2017/01/about_facility.jpg" alt="" width="480" height="1079" />
+
+[/idz_ui_col_4_10]
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="about2" container="" parallax="" bgcolor="#f4f4f4" bgimage="" class=""]
+
+[idz_ui_row class="uk-grid-collapse"]
+[idz_ui_col_1_2 class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1"]
+
+[idz_ui_video type="youtube" id="BWJ20yaWr4o"]
+
+[/idz_ui_col_1_2]
+[idz_ui_col_1_2 class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1"]
+
+[_idz_ui_row class="feature-wrap tablet-condition"]
+[idz_ui_col_1_1 class="uk-padding"]
+
+[idz_ui_heading tag="h2" subtitle="" align="left" class="bold uk-margin-medium-bottom title-section"]Testimonials[/idz_ui_heading]
+
+[idz_ui_paragraph class=""]cloudtrek provides pre-eminent customer service and I would recommend them to any progressive companies seeking a robust, reliable and state-of-the-art solution.[/idz_ui_paragraph]
+
+<em>Trang Cao, Managing Partner at 3Caos, LLC</em>
+
+[/idz_ui_col_1_1]
+[/_idz_ui_row]
+
+[/idz_ui_col_1_2]
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="ourteam" container="true" parallax="" bgcolor="" bgimage="" class=""]
+
+[idz_ui_heading tag="h2" subtitle="" align="left" class="bold title-section"]Our Team[/idz_ui_heading]
+
+[idz_ui_team title="" subtitle="" category="general" column="4" showpost="4" orderby="" order="ASC"]
+
+[/idz_ui_section]

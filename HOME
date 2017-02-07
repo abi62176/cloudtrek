@@ -1,0 +1,227 @@
+[idz_ui_section id="homearea1" container="true" parallax="" bgcolor="" bgimage="" class=""]
+
+[idz_ui_row class=""]
+[idz_ui_col_1_1 class="uk-text-center uk-margin-bottom"]
+
+[idz_ui_heading tag="h2" subtitle="" align="center" class="bold uk-margin-small-bottom title-section"]Services Suited for Every Need![/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-text-large uk-margin-small-top"]Your High Performance, Simple,Secure Private Cloud[/idz_ui_paragraph]
+
+[/idz_ui_col_1_1]
+[idz_ui_col_1_1 class=""]
+
+[idz_ui_tabs menu_position="top" center="yes" showicon="no" class="uk-margin-top hosting-plan"]
+[idz_ui_tab title="<strong>PLATFORMS</strong>" icon=""]
+
+[idz_ui_heading tag="h2" subtitle="" align="center" class="bold uk-margin-small-bottom title-section"]Our Platforms[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-text-large uk-text-center uk-margin-small-top uk-margin-large-bottom text-width80"]The tools for building, scaling, and managing the private cloud[/idz_ui_paragraph]
+
+[_idz_ui_row class="uk-grid-divider"]
+[idz_ui_col_1_2 class="uk-padding-medium-bottom"][idz_ui_icon_withtext icon="smico-box" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="Apache cloudstack" title_tag="h3" content="• Cloud orchestration – build the environment
+• Integrate private cloud and hosted assets
+• Open APIs to support 3rd party tools / clouds" class=""][/idz_ui_col_1_2]
+
+[idz_ui_col_1_2 class="uk-padding-medium-bottom idz-ui-padding-top-ml"][idz_ui_icon_withtext icon="smico-settings-2" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="Zabbix" title_tag="h3" content="• Monitoring for all assets in the cloud
+• Real-time and historical measurement
+• Performance scale (up/down) or troubleshoot" class=""][/idz_ui_col_1_2]
+[/_idz_ui_row]
+
+[idz_ui_spacer height="2" gap_top="0" gap_bottom="0" color="#e8e8e8" class="uk-margin-remove"]
+
+[_idz_ui_row class="uk-grid-divider"]
+[idz_ui_col_1_2 class="uk-padding-medium-top"][idz_ui_icon_withtext icon="smico-processor" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="NOCware" title_tag="h3" content="• 24x7 Incidence response
+• NOC ticketing system
+• Real-time or historical bandwidth reporting" class=""][/idz_ui_col_1_2]
+
+[idz_ui_col_1_2 class="uk-padding-medium-top"][idz_ui_icon_withtext icon="smico-sitemap" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="Apache Software Foundation" title_tag="h3" content="• US 501(c)(3) charitable organization, funded by
+individual donations and corporate sponsors.
+• Full catalog of software - (www.apache.org/
+index.html#projects-list)" class=""][/idz_ui_col_1_2]
+[/_idz_ui_row]
+
+[/idz_ui_tab]
+[idz_ui_tab title="<strong>SOLUTIONS</strong>" icon=""]
+
+[idz_ui_pricing column="3" type="type1"]
+[idz_ui_pricing_item color="default" title="Private Cloud" price_symbol="$" price="29" per="Month" subtitle="Perfect Hosting for Corporate Website" icon="fa-cloud" button_url="#" button_color="blue" button_text="Order Now"]
+<ul>
+ 	<li>Quarterly cloud strategy discussions</li>
+ 	<li>24/7/365 live support</li>
+ 	<li>Cloud migration assessments</li>
+ 	<li>Bring your own hardware/software</li>
+ 	<li>Dedicated compute/storage/security</li>
+</ul>
+[/idz_ui_pricing_item]
+[idz_ui_pricing_item color="green" title="Hosting" price_symbol="$" price="59" per="Month" subtitle="Web hosting with rich Features" icon="fa-cloud" button_url="#" button_color="green" button_text="Order Now"]
+<ul>
+ 	<li>N+1 fault tolerance/li>
+ 	<li>24/7/365 live support</li>
+ 	<li>Audited AT101 SOC 2 Type 2/li>
+ 	<li>All carriers supported including microwave</li>
+ 	<li>Cross connect availability to public clouds</li>
+</ul>
+[/idz_ui_pricing_item]
+[/idz_ui_pricing]
+
+[/idz_ui_tab]
+[idz_ui_tab title="<strong>SERVICES</strong>" icon=""]
+
+[idz_ui_heading tag="h2" subtitle="" align="center" class="bold uk-margin-small-bottom title-section"]Our Services[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-text-large uk-text-center uk-margin-small-top uk-margin-large-bottom text-width80"]Dignissimos ducimus blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia.[/idz_ui_paragraph]
+
+[_idz_ui_row class="uk-grid-divider"]
+[idz_ui_col_1_2 class="uk-padding-medium-bottom"][idz_ui_icon_withtext icon="smico-box" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="Apache cloudstack" title_tag="h3" content="• Cloud orchestration – build the environment
+• Integrate private cloud and hosted assets
+• Open APIs to support 3rd party tools / clouds" class=""][/idz_ui_col_1_2]
+
+[idz_ui_col_1_2 class="uk-padding-medium-bottom idz-ui-padding-top-ml"][idz_ui_icon_withtext icon="smico-settings-2" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="Zabbix" title_tag="h3" content="• Monitoring for all assets in the cloud
+• Real-time and historical measurement
+• Performance scale (up/down) or troubleshoot" class=""][/idz_ui_col_1_2]
+[/_idz_ui_row]
+
+[idz_ui_spacer height="2" gap_top="0" gap_bottom="0" color="#e8e8e8" class="uk-margin-remove"]
+
+[_idz_ui_row class="uk-grid-divider"]
+[idz_ui_col_1_2 class="uk-padding-medium-top"][idz_ui_icon_withtext icon="smico-box" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="Migration Assistance" title_tag="h3" content="Quis autem veleum iure reprehenderit ea volupta velit esse quam nihil molestiae consequatur vel illum qui dolorem eum fugiat quo voluptas nulla pariatur consequuntur." class=""][/idz_ui_col_1_2]
+
+[idz_ui_col_1_2 class="uk-padding-medium-top"][idz_ui_icon_withtext icon="smico-settings-2" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="Apache Software Foundation" title_tag="h3" content="• US 501(c)(3) charitable organization, funded by
+individual donations and corporate sponsors.
+• Full catalog of software -Apache Project List" class=""][/idz_ui_col_1_2]
+[/_idz_ui_row]
+
+[/idz_ui_tab]
+[/idz_ui_tabs]
+
+[/idz_ui_col_1_1]
+
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="homearea2" container="false" margin_bottom="false" parallax="" bgcolor="" bgimage="" class="section-grey" style="background-position:left top; "]
+
+[idz_ui_row class="uk-grid-collapse"]
+[idz_ui_col_1_2 class="uk-width-medium-1-1 uk-padding" style="background-image:url(http://54.244.68.255/wp-content/uploads/2017/01/howweare_bkg1.jpg)"]
+
+[idz_ui_image source="http://54.244.68.255/wp-content/uploads/2017/01/howwearedifferent.png" align="right" class="" style="position:relative; top: 17px; right: -60px; float: right;" class_container="notebook-align"]
+
+[/idz_ui_col_1_2]
+[idz_ui_col_1_2 class="uk-width-medium-1-1 uk-padding"]
+
+[_idz_ui_row class="feature-wrap"]
+
+[idz_ui_heading tag="h2" subtitle="" align="left" class="bold uk-margin-medium-top uk-margin-medium-bottom title-section"]How we are different[/idz_ui_heading]
+[_idz_ui_col_1_2 class=""]
+
+We at cloudtrek help companies quickly deploy private cloud solutions
+preserving their need for greater control, predictable costs, and ease of use.
+Control
+
+[idz_ui_button color="blue" size="small" label="Learn More" icon="fa-chevron-circle-right" link="#" target="_self" type="radius" class="uk-margin-top outline"]
+
+[/_idz_ui_col_1_2]
+[_idz_ui_col_1_2 class="idz-ui-margin-top-ml"]
+
+Control, Price, Agility and Quick!
+
+[/_idz_ui_col_1_2]
+[/_idz_ui_row]
+
+[/idz_ui_col_1_2]
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="homearea3" container="true" parallax="true" bgcolor="" bgimage="http://54.244.68.255/wp-content/uploads/2017/01/content_bg_parallax1-1.jpg" class=""]
+
+[idz_ui_row class="uk-padding"]
+[idz_ui_col_1_1 class="uk-text-center uk-text-contrast"]
+
+[idz_ui_heading tag="h2" subtitle="" align="center" class="bold uk-text-contrast uk-margin-small-bottom title-section"]Your High Performance, Simple, Secure Private Cloud[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-text-large uk-margin-small-top text-width70"]WHITE-GLOVE PRIVATE CLOUD SOLUTIONS.
+Committed to Offering Competitive Pricing and Service Excellence.[/idz_ui_paragraph]
+
+[idz_ui_button color="blue" size="small" label="LEARN MORE" icon="fa-chevron-circle-right" link="#" target="_self" type="radius" class="transparent uk-margin-bottom"]
+
+[_idz_ui_row class="uk-margin-top"]
+[_idz_ui_col_1_4 class="uk-width-medium-1-2"][idz_ui_icon_withtext icon="smico-shield" color="" bgcolor="" stroke="" size=large icon_position="center" icon_border="circle" title="Secure Web Access &amp; APIs" title_tag="h3" content="Open APIs for custom development and connectivity to 3rd party cloud providers." class=""][/_idz_ui_col_1_4]
+[_idz_ui_col_1_4 class="uk-width-medium-1-2"][idz_ui_icon_withtext icon="smico-processor" color="" bgcolor="" stroke="" size=large icon_position="center" icon_border="circle" title="Load balancer/FWs &amp; VPNs" title_tag="h3" content="Firewall security is not virtual in the private cloud, it is physical and dedicated to each customer" class=""][/_idz_ui_col_1_4]
+[_idz_ui_col_1_4 class="uk-width-medium-1-2"][idz_ui_icon_withtext icon="smico-speed" color="" bgcolor="" stroke="" size=large icon_position="center" icon_border="circle" title="Software Orchestration Layer" title_tag="h3" content="100% dedicated to each customer including the orchestration layer." class=""][/_idz_ui_col_1_4]
+[_idz_ui_col_1_4 class="uk-width-medium-1-2"][idz_ui_icon_withtext icon="smico-help" color="" bgcolor="" stroke="" size=large icon_position="center" icon_border="circle" title="Physical Infrastructure Layer" title_tag="h3" content="No other customer can effect the security or performance of another customer’s private cloud." class=""][/_idz_ui_col_1_4]
+[/_idz_ui_row]
+
+[/idz_ui_col_1_1]
+[/idz_ui_row]
+
+[/idz_ui_section]
+
+[idz_ui_section id="homearea4" container="true" parallax="" bgcolor="" bgimage="" class=""]
+
+[idz_ui_row class=""]
+[idz_ui_col_1_1 class="uk-text-center"]
+
+[idz_ui_heading tag="h2" subtitle="" align="center" class="bold uk-margin-large-bottom title-section"]Companies Who Trust Our Services[/idz_ui_heading]
+
+[_idz_ui_row class="uk-grid-divider"]
+
+[_idz_ui_col_1_3 class=""]
+
+[idz_ui_image source="http://54.244.68.255/wp-content/uploads/2017/01/client_rentrak.png" align="center" class="partner-logo"]
+
+[idz_ui_paragraph class="text-width90 uk-margin-large-bottom"][/idz_ui_paragraph]
+
+[/_idz_ui_col_1_3]
+[_idz_ui_col_1_3 class=""]
+
+[idz_ui_image source="http://54.244.68.255/wp-content/uploads/2017/01/client_james_perse.png" align="center" class="partner-logo"]
+
+[idz_ui_paragraph class="text-width90 uk-margin-large-bottom"][/idz_ui_paragraph]
+
+[/_idz_ui_col_1_3]
+
+[_idz_ui_col_1_3 class=""]
+
+[idz_ui_image source="http://54.244.68.255/wp-content/uploads/2017/01/client_infologix.png" align="center" class="partner-logo"]
+
+[idz_ui_paragraph class="text-width90 uk-margin-large-bottom"][/idz_ui_paragraph]
+
+[/_idz_ui_col_1_3]
+[/_idz_ui_row]
+
+[idz_ui_spacer height="2" gap_top="0" gap_bottom="0" color="#e8e8e8" class="uk-margin-remove"]
+
+[_idz_ui_row class="uk-grid-divider"]
+
+[_idz_ui_col_1_3 class=""]
+
+[idz_ui_image source="http://54.244.68.255/wp-content/uploads/2017/01/client_database_works.png" align="center" class="partner-logo"]
+
+[idz_ui_paragraph class="text-width90 uk-margin-large-bottom"][/idz_ui_paragraph]
+
+[/_idz_ui_col_1_3]
+[_idz_ui_col_1_3 class=""]
+
+[idz_ui_image source="http://54.244.68.255/wp-content/uploads/2017/01/client_attivo.png" align="center" class="partner-logo"]
+
+[idz_ui_paragraph class="text-width90 uk-margin-large-bottom"][/idz_ui_paragraph]
+
+[/_idz_ui_col_1_3]
+
+[_idz_ui_col_1_3 class=""]
+
+[idz_ui_image source="http://54.244.68.255/wp-content/uploads/2017/01/client_cabi.png" align="center" class="partner-logo"]
+
+[idz_ui_paragraph class="text-width90 uk-margin-large-bottom"][/idz_ui_paragraph]
+
+[/_idz_ui_col_1_3]
+
+[/_idz_ui_row]
+
+[/idz_ui_col_1_1]
+[/idz_ui_row]
+
+[/idz_ui_section]
+<div id="spoon-plugin-kncgbdglledmjmpnikebkagnchfdehbm-2" style="display: none;"></div>

@@ -1,0 +1,177 @@
+[idz_ui_heading tag="h2" subtitle="" align="center" class="bold uk-margin-small-bottom title-section"]Self Service Admin[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-text-large uk-text-center uk-margin-small-top uk-margin-large-bottom text-width80"]No limits to what you can do.[/idz_ui_paragraph]
+
+[_idz_ui_row class="uk-grid-divider"]
+[idz_ui_col_1_2 class="uk-padding-medium-bottom"][idz_ui_icon_withtext icon="smico-box" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="Apache cloudstack" title_tag="h3" content="• Cloud orchestration – build the environment
+• Integrate private cloud and hosted assets
+• Open APIs to support 3rd party tools / clouds" class=""][/idz_ui_col_1_2]
+
+[idz_ui_col_1_2 class="uk-padding-medium-bottom idz-ui-padding-top-ml"][idz_ui_icon_withtext icon="smico-settings-2" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="Zabbix" title_tag="h3" content="• Monitoring for all assets in the cloud
+• Real-time and historical measurement
+• Performance scale (up/down) or troubleshoot" class=""][/idz_ui_col_1_2]
+[/_idz_ui_row]
+
+[idz_ui_spacer height="2" gap_top="0" gap_bottom="0" color="#e8e8e8" class="uk-margin-remove"]
+
+[_idz_ui_row class="uk-grid-divider"]
+[idz_ui_col_1_2 class="uk-padding-medium-top"][idz_ui_icon_withtext icon="smico-processor" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="NOCware" title_tag="h3" content="• 24x7 Incidence response
+• NOC ticketing system
+• Real-time or historical bandwidth reporting" class=""][/idz_ui_col_1_2]
+
+[idz_ui_col_1_2 class="uk-padding-medium-top"][idz_ui_icon_withtext icon="smico-sitemap" color="" bgcolor="" stroke="" size=large icon_position="left" icon_border="circle" title="Apache Software Foundation" title_tag="h3" content="• US 501(c)(3) charitable organization, funded by
+individual donations and corporate sponsors.
+• Full catalog of software - (www.apache.org/
+index.html#projects-list)" class=""][/idz_ui_col_1_2]
+[/_idz_ui_row]
+
+[idz_ui_spacer height="1" gap_top="50" gap_bottom="60" color="#dddddd" class=""]
+
+[idz_ui_row class=""]
+[idz_ui_col_1_10 class="uk-width-medium-2-10 uk-hidden-small"]
+
+[idz_ui_icon icon="smico-repeat" color="" size="large" link="" blank="_self" class=""]
+
+[/idz_ui_col_1_10]
+[idz_ui_col_9_10 class="uk-width-medium-8-10"]
+
+[idz_ui_heading tag="h2" subtitle="" align="left" class="bold "]Network. <span class="uk-text-thin">No limits to what you can do.</span>[/idz_ui_heading]
+
+[idz_ui_paragraph class=""]Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[/idz_ui_paragraph]
+
+[_idz_ui_row class="uk-margin-medium-top"]
+[idz_ui_col_1_2 class="uk-margin-small-bottom"][idz_ui_icon_withtext icon="smico-graph-2" color="" bgcolor="" stroke="" size=x-small icon_position="left" icon_border="circle" title="NOC ware" title_tag="h5" title_class="uk-margin-small-bottom" content="Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit consequuntur magni dolores eos qui ratione" class="" content_class="uk-margin-small-top"][/idz_ui_col_1_2]
+
+[idz_ui_col_1_2 class="uk-margin-small-bottom"][idz_ui_icon_withtext icon="smico-chart" color="" bgcolor="" stroke="" size=x-small icon_position="left" icon_border="circle" title="cloudstack" title_tag="h5" title_class="uk-margin-small-bottom" content="Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit consequuntur magni dolores eos qui ratione" class="" content_class="uk-margin-small-top"][/idz_ui_col_1_2]
+
+[idz_ui_col_1_2 class="uk-margin-small-bottom"][idz_ui_icon_withtext icon="smico-www" color="" bgcolor="" stroke="" size=x-small icon_position="left" icon_border="circle" title="Unlimited Domains" title_tag="h5" title_class="uk-margin-small-bottom" content="Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit consequuntur magni dolores eos qui ratione" class="" content_class="uk-margin-small-top"][/idz_ui_col_1_2]
+
+[idz_ui_col_1_2][idz_ui_icon_withtext icon="smico-open-letter" color="" bgcolor="" stroke="" size=x-small icon_position="left" icon_border="circle" title="Unlimited Email Accounts" title_tag="h5" title_class="uk-margin-small-bottom" content="Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit consequuntur magni dolores eos qui ratione" class="" content_class="uk-margin-small-top"][/idz_ui_col_1_2]
+[/_idz_ui_row]
+
+[/idz_ui_col_9_10]
+[/idz_ui_row]
+
+[idz_ui_spacer height="1" gap_top="35" gap_bottom="60" color="#dddddd" class=""]
+
+[idz_ui_row class=""]
+[idz_ui_col_1_10 class="uk-width-medium-2-10 uk-hidden-small"]
+
+[idz_ui_icon icon="smico-browser" color="" size="large" link="" blank="_self" class=""]
+
+[/idz_ui_col_1_10]
+[idz_ui_col_9_10 class="uk-width-medium-8-10"]
+
+[idz_ui_heading tag="h2" subtitle="" align="left" class="bold "]Data Centers. <span class="uk-text-thin">Locations.</span>[/idz_ui_heading]
+
+[idz_ui_paragraph class=""]Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur reprehenderit qui in ea voluptate velit esse quam nihil molestiae.[/idz_ui_paragraph]
+
+[_idz_ui_row class="uk-margin-medium-top"]
+[_idz_ui_col_1_3 class="uk-width-small-1-3 idz-ui-100width-mp"]
+
+[idz_ui_image source="http://54.244.68.255/wp-content/uploads/2017/01/location_irvine.jpg" align="left" class="uk-border-rounded uk-thumbnail"]
+
+[/_idz_ui_col_1_3]
+
+[_idz_ui_col_1_3 class="uk-width-small-1-3 idz-ui-100width-mp"]
+
+[idz_ui_image source="http://54.244.68.255/wp-content/uploads/2017/01/location_lax.jpg" align="left" class="uk-border-rounded uk-thumbnail"]
+
+[/_idz_ui_col_1_3]
+
+[_idz_ui_col_1_3 class="uk-width-small-1-3 idz-ui-100width-mp"]
+
+[idz_ui_image source="http://54.244.68.255/wp-content/uploads/2017/01/location_downtown.jpg" align="left" class="uk-border-rounded uk-thumbnail"]
+
+[/_idz_ui_col_1_3]
+[/_idz_ui_row]
+
+[/idz_ui_col_9_10]
+[/idz_ui_row]
+
+[idz_ui_spacer height="1" gap_top="40" gap_bottom="60" color="#dddddd" class=""]
+
+[idz_ui_row class=""]
+[idz_ui_col_1_10 class="uk-width-medium-2-10 uk-hidden-small"]
+
+[idz_ui_spacer height="1" gap_top="40" gap_bottom="50" color="#dddddd" class=""]
+
+[idz_ui_row class=""]
+[idz_ui_col_1_10 class="uk-width-medium-2-10 uk-hidden-small"]
+
+[idz_ui_icon icon="smico-help" color="" size="large" link="" blank="_self" class=""]
+
+[/idz_ui_col_1_10]
+[idz_ui_col_9_10 class="uk-width-medium-8-10"]
+
+[idz_ui_heading tag="h2" subtitle="" align="left" class="bold "]Support. <span class="uk-text-thin">Everywhere and Anytime.</span>[/idz_ui_heading]
+
+[idz_ui_paragraph class=""]Adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur reprehenderit.[/idz_ui_paragraph]
+
+[_idz_ui_row class="uk-margin-medium-top uk-text-center"]
+[_idz_ui_col_1_4 class="uk-width-small-1-4 idz-ui-100width-mp"]
+
+[idz_ui_div class="idz-ui-icon-box green uk-margin-bottom"]
+
+[idz_ui_icon icon="fa-phone" color="#ffffff" size="medium" link="" blank="_self" class=""]
+
+[idz_ui_end_div]
+
+[idz_ui_heading tag="h5" subtitle="" align="left" class="bold uk-margin-bottom-remove"]Available by phone[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-margin-top-remove"]Call (949) 445-1951[/idz_ui_paragraph]
+
+[/_idz_ui_col_1_4]
+
+[_idz_ui_col_1_4 class="uk-width-small-1-4 idz-ui-100width-mp"]
+
+[idz_ui_div class="idz-ui-icon-box red uk-margin-bottom"]
+
+[idz_ui_icon icon="fa-ticket" color="#ffffff" size="medium" link="" blank="_self" class=""]
+
+[idz_ui_end_div]
+
+[idz_ui_heading tag="h5" subtitle="" align="left" class="bold uk-margin-bottom-remove"]Ticket center[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-margin-top-remove"]Call (949) 445-1951[/idz_ui_paragraph]
+
+[/_idz_ui_col_1_4]
+
+[_idz_ui_col_1_4 class="uk-width-small-1-4 idz-ui-100width-mp"]
+
+[idz_ui_div class="idz-ui-icon-box orange uk-margin-bottom"]
+
+[idz_ui_icon icon="fa-envelope" color="#ffffff" size="medium" link="" blank="_self" class=""]
+
+[idz_ui_end_div]
+
+[idz_ui_heading tag="h5" subtitle="" align="left" class="bold uk-margin-bottom-remove"]Available by email[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-margin-top-remove"]support@cloudtrek.com[/idz_ui_paragraph]
+
+[/_idz_ui_col_1_4]
+
+[_idz_ui_col_1_4 class="uk-width-small-1-4 idz-ui-100width-mp"]
+
+[idz_ui_div class="idz-ui-icon-box blue uk-margin-bottom"]
+
+[idz_ui_icon icon="fa-comments" color="#ffffff" size="medium" link="" blank="_self" class=""]
+
+[idz_ui_end_div]
+
+[idz_ui_heading tag="h5" subtitle="" align="left" class="bold uk-margin-bottom-remove"]Available by chat[/idz_ui_heading]
+
+[idz_ui_paragraph class="uk-margin-top-remove"]Chat with our experts[/idz_ui_paragraph]
+
+[/_idz_ui_col_1_4]
+[/_idz_ui_row]
+
+[/idz_ui_col_9_10]
+[/idz_ui_row]
+
+[idz_ui_spacer height="1" gap_top="50" gap_bottom="50" color="#dddddd" class=""]
+
+[idz_ui_row class=""]
+[idz_ui_col_1_10 class="uk-width-medium-2-10 uk-hidden-small"]
+
+<div id="spoon-plugin-kncgbdglledmjmpnikebkagnchfdehbm-2" style="display: none;"></div>
